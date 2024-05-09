@@ -12,6 +12,7 @@ Table of contents:
     - [Synths](#synths)
     - [Mixing/Mastering](#mixingmastering)
   - [Samples](#samples)
+  - [Racks](#racks)
    
 ## Tutorials
 
@@ -36,7 +37,6 @@ If you are looking for free plugins, a great website to check out is [Plugin Bou
 
 Vital is a great free alternative to Serum.
 
-
 ### Mixing/Mastering
 
 [Vortego SPAN](https://www.voxengo.com/product/span/)
@@ -47,6 +47,12 @@ Great for visualising your audio across the whole spectrum.
 
 This helps you find the true perceived loudness of your audio.
 
+[Scrollscope](https://github.com/ardura/Scrollscope)
+
+An open-source oscilloscope available as a VST3.
+
+Note: Personally having troubles getting it to run - seems to require a local build.
+
 ## Samples
 
 [BlackOctopus 1GB Free Sample Pack](https://blackoctopus-sound.com/free-downloads/)
@@ -56,3 +62,29 @@ This helps you find the true perceived loudness of your audio.
 [SampleRadar by MusicRader](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download-sampleradar)
 
 Constantly updated with large collections of free samples, that have been released on previous issues of Computer Music or the Future Music magazines.
+
+## Racks
+
+The following Racks can be used with Ableton, and will help with various functionality.
+
+[Production Music Live - Rack Attack Vol. 1](https://www.productionmusiclive.com/pages/rack-attack-vol-1)
+
+Just requires your email to get - comes with 15 racks.
+
+- Chord Generator
+- Texturize
+- Flutter (One-Knob)
+- Wider (One-Knob)
+- Modulation FX
+- Wash-Out (Send & Return)
+- Side-Chain
+- Magic EQ
+- Vocal Mix
+- Space Maker
+- Kick Suite
+- Mastering Suite
+- Snare Clap Mixdown
+- Endless Cry
+- DJ Mixer
+- Rumble Rack
+  
